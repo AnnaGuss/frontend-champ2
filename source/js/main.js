@@ -1,4 +1,3 @@
-// https://swiperjs.com/get-started#installation
-// import Swiper from "swiper";
-// import {Navigation, Pagination} from "swiper/modules";
-// import 'swiper/css';
+// source/js/main.js
+const message = "Hello from development";
+console.log(message);

@@ -1,4 +1,11 @@
-// Vendor
-// ---------------------------------
+
+/* Vendor */
 
 @import "vendor/normalize";
+
+/* GLOBAL */
+@import "common/variables";
+
+
+/* BLOCKS */
+@import "blocks/ppp";
